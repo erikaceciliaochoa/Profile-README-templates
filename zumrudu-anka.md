@@ -38,7 +38,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="../erikaceciliaochoa/erikaceciliaochoa/C/images/c.svg"></code>
+  <code><img title="C" height="25" src="/../erikaceciliaochoa/erikaceciliaochoa/C/images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
