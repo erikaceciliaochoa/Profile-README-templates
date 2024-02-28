@@ -32,22 +32,14 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
 ---
 ⭐️ From [erikaceciliaochoa](https://github.com/erikaceciliaochoa)
 
-<!--![](https://img.shields.io/badge/Exp-4+yrs-red)
+![](https://img.shields.io/badge/Exp-4+yrs-red)
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
 ![age](https://img.shields.io/badge/age-24-blue)
--->
 
-<!--## Projects that I contributed to
+
+## Projects that I contributed to
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/erikaceciliaochoa/BUET-CSE-Moodle-Web-Scraping) <br />
--->
-
-
-![](https://img.shields.io/badge/Exp-4+yrs-red)
-<summary>
-  <a href="https://github.com/erikaceciliaochoa"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
-</summary>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=erikaceciliaochoa&show_icons=true&hide_border=true" />
 
 <!--
 **erikaceciliaochoa/erikaceciliaochoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
