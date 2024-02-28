@@ -5,9 +5,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/erikaceciliaochoa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikaceciliaochoa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erikaceciliaochoa@gmail.com)
-<!--
-[![Mail Badge](https://img.shields.io/badge/-erikaceciliaochoa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:erikaceciliaochoa@gmail.com)](mailto:erikaceciliaochoa@gmail.com)
--->
 ![](https://komarev.com/ghpvc/?username=erikaceciliaochoa&color=7957d5)
 
 - 💬 Ask me about:
@@ -31,15 +28,6 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
 
 ---
 ⭐️ From [erikaceciliaochoa](https://github.com/erikaceciliaochoa)
-
-![](https://img.shields.io/badge/Exp-4+yrs-red)
-### ✨Visitors
-[![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
-![age](https://img.shields.io/badge/age-24-blue)
-
-
-## Projects that I contributed to
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/erikaceciliaochoa/BUET-CSE-Moodle-Web-Scraping) <br />
 
 <!--
 **erikaceciliaochoa/erikaceciliaochoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
